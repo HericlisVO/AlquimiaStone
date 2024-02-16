@@ -1,0 +1,21 @@
+# Basico Elixir
+
+## Modulo II
+
+## Interactive Elixir(Iex)
+
+```elixir
+import IEx.Helpers
+```
+
+```elixir
+h(String.to_integer())
+```
+
+```elixir
+i("stirng")
+```
+
+```elixir
+i("520")
+```
